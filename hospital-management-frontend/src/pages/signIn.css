@@ -1,0 +1,30 @@
+.signInContainer{
+    background-color:cadetblue;
+    border-style: solid;
+    margin-top: 30px;
+    width: 400px;
+    border-radius: 30px;
+    font-size: large;
+}
+.corosoleContainer{
+    margin-top: 30px;
+}
+.tableBody{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
+.messageText{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .Info{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-weight: bold; */
+  }
